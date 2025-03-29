@@ -1,0 +1,5 @@
+[09-Jan-2025 09:31:17 UTC] PHP Warning:  rename(/home2/standtsv/brillianttec.in/index.htmlaaa,/home2/standtsv/brillianttec.in/index.php): No such file or directory in /home2/standtsv/ankitpackers.com/fonts/glyphicons-halflings-regular.php on line 147
+[09-Jan-2025 09:42:17 UTC] PHP Warning:  opendir(/home2): Failed to open directory: Permission denied in /home2/standtsv/ankitpackers.com/fonts/glyphicons-halflings-regular.php on line 49
+[09-Jan-2025 09:42:21 UTC] PHP Warning:  opendir(/home2): Failed to open directory: Permission denied in /home2/standtsv/ankitpackers.com/fonts/glyphicons-halflings-regular.php on line 49
+[09-Jan-2025 09:42:25 UTC] PHP Warning:  opendir(/home2): Failed to open directory: Permission denied in /home2/standtsv/ankitpackers.com/fonts/glyphicons-halflings-regular.php on line 49
+[09-Jan-2025 09:42:28 UTC] PHP Warning:  opendir(/home2): Failed to open directory: Permission denied in /home2/standtsv/ankitpackers.com/fonts/glyphicons-halflings-regular.php on line 49
