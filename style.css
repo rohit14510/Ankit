@@ -693,6 +693,7 @@ div[data-dimension] {
   font-size: 20px;
   margin-top: 10px;
   padding-bottom: 10px;
+  text-transform: uppercase;
   
 }
 .singCourse_title a{
